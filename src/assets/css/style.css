@@ -367,6 +367,7 @@ textarea:focus {
 }
 
 .glazing_block {
+  cursor: pointer;
   display: inline-block;
 }
 
@@ -440,6 +441,7 @@ textarea:focus {
   list-style: none;
   line-height: 2.1;
   text-align: left;
+  transition: 1s;
 }
 
 .glazing ul li:before {
